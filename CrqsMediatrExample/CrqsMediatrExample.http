@@ -1,0 +1,6 @@
+@CrqsMediatrExample_HostAddress = http://localhost:5194
+
+GET {{CrqsMediatrExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
